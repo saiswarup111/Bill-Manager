@@ -11,7 +11,7 @@
     "react-redux": "^7.2.2",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.3", // Updated to a stable version
+    "react-scripts": "4.0.3", 
     "redux": "^4.0.5",
     "redux-devtools-extension": "^2.13.9",
     "redux-thunk": "^2.3.0"
@@ -23,7 +23,7 @@
     "eject": "react-scripts eject"
   },
   "engines": {
-    "node": "14.x || 16.x", // Ensure compatibility with Vercel's supported Node.js versions
+    "node": "14.x || 16.x", 
     "npm": ">=6"
   }
 }
